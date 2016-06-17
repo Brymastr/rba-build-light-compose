@@ -1,0 +1,6 @@
+[submodule "rba-build-light-web"]
+	path = rba-build-light-web
+	url = https://github.com/DorsayDevelopment/rba-build-light-web.git
+[submodule "rba-build-light-distributor"]
+	path = rba-build-light-distributor
+	url = https://github.com/DorsayDevelopment/rba-build-light-distributor.git
